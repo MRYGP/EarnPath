@@ -1,0 +1,16 @@
+# 私有研究材料与本地导出
+private/
+participants/
+raw-interviews/
+payments/
+exports/
+*.local.*
+*.secrets.*
+
+# 常见系统与编辑器文件
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
